@@ -1044,4 +1044,9 @@ body {
     padding-left: 3.5rem;
     padding-right: 3.5rem;
   }
+
+  .md\:text-5xl{
+    font-size: 3rem;
+    line-height: 1;
+  }
 }
